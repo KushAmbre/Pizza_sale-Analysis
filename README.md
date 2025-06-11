@@ -81,6 +81,6 @@ The interactive dashboard includes key business insights such as:
 
 ## 📈 Sample Visuals
 
-> ![Dashboard - Home](screenshot1.png)
+> ![Dashboard - Home](Screenshot1.png)
 
-> ![Dashboard - Best/Worst Sellers](screenshot2.png)
+> ![Dashboard - Best/Worst Sellers](Screenshot2.png)
